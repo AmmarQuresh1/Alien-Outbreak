@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS system files
+.DS_Store
